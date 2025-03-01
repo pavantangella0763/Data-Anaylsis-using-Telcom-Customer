@@ -1,0 +1,13 @@
+Data Cleaning and Preprocessing – Handle missing values, encode categorical variables.
+Exploratory Data Analysis (EDA) – Analyze churn rates, customer demographics, and tenure distribution.
+Customer Segmentation – Segment customers based on tenure, charges, contract type, and analyze churn rates.
+Churn Prediction Model – Develop a machine learning model (e.g., Logistic Regression) and evaluate performance.
+Customer Retention Strategies – Propose strategies to reduce churn, identify high-value customers at risk.
+Visualizations – Create meaningful visualizations (box plots, violin plots, etc.) using tools like Matplotlib or Seaborn.
+
+Key Skills Required
+Data Cleaning & Preprocessing
+EDA & Visualization (Matplotlib, Seaborn, Tableau)
+Machine Learning (Python, R, Logistic Regression)
+Customer Segmentation & Retention Strategies
+Business Acumen & Analytical Thinking
